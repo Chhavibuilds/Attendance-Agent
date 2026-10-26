@@ -1,0 +1,9 @@
+streamlit>=1.35
+opencv-python>=4.8
+mediapipe==0.10.14
+librosa>=0.10
+numpy<2
+pandas>=2.0
+soundfile>=0.12
+sounddevice>=0.4   # optional: live microphone
+pytest>=8.0
